@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851359766963",
+    "project_id": "xiaomi-ronin",
+    "storage_bucket": "xiaomi-ronin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851359766963:android:46091f60735bf00a22d3c6",
+        "android_client_info": {
+          "package_name": "rn.ronin.mi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIDAo3t1hwSd1dowrd4do8q9KHK0BKaMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
